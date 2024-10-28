@@ -50,7 +50,6 @@ def get_sidebar_items_frontend():
             "Components",
             children=[
                 components.props,
-                components.style_props,
                 components.conditional_props,
                 components.conditional_rendering,
                 components.rendering_iterables,
